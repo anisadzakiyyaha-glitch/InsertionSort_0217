@@ -48,3 +48,8 @@ void insertionsort(){ //procedure insertion sort
         }
     }
 }
+void display (){
+    cout << endl;
+    cout << "\n==============";
+    cout << "\nElement Array" << endl;
+    cout << "\n==============" << endl;
